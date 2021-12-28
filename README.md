@@ -10,7 +10,6 @@
 
 <ul>
   <li>Git</li>
-  <li>Live Server</li>
 </ul>
 
 # :rocket: Installation
